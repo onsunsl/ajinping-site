@@ -1,0 +1,2 @@
+# ajinping-site
+my site
